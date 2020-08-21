@@ -1,1 +1,2 @@
-https://creativecommons.org/licenses/by-sa/4.0/
+License CC BY-NC-SA OneKrink
+https://creativecommons.org/licenses/by-nc-sa/4.0/
