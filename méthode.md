@@ -2,25 +2,27 @@
 
 ## Intention
 
-L’intention du krink est d’apaiser une souffrance en lien avec une représentation
+L’intention du krink est d’**apaiser une souffrance** en lien avec une représentation
 
 ## Définition
 ### Représentation
-Nous définissons une représentation comme un concept, une idée, une image, un son, une sensation, un goût, une odeur. Sous cette définition, par exemple :
-- Chaque élément que l’on peut penser est une représentation
-- Le concept de chat est une représentation, mais aussi l’idée de mon chat Mochi, l’image que j’ai de lui dans ma mémoire, l’image de sa patte, de son museau.
+Nous définissons une **représentation** comme un *concept, une idée, une image, un son, une sensation, un goût, une odeur. Sous cette définition*, par exemple :
+- Chaque élément que je peux penser est une représentation
+- Le concept de chat est une représentation, mais aussi l’idée de mon chat Mochi, l’image que j’ai de lui dans ma mémoire, l’image de sa patte, de son museau
 - Chaque fragment de l’image que je peux avoir de lui, jusqu’au plus petit pixel, est une représentation.
 
 ### Souffrance/ Plaisir
-Nous définissons une souffrance comme une sensation désagréable. 
-Nous définissons un plaisir comme une sensation agréable. 
+Nous définissons une **souffrance** comme une *sensation désagréable*. 
+Nous définissons un **plaisir** comme une *sensation agréable*. 
 
 ### Charge
-Nous définissons une charge comme une sensation, agréable ou désagréable.
+Nous définissons une **charge** comme une *sensation agréable ou désagréable*.
 
-Une souffrance peut être unitaire, c’est-à-dire en lien avec une représentation comme par exemple : je souffre à l’idée de ton départ.
+Nous définissions une **souffrance unitaire** comme *une souffrance en lien avec une représentation* comme par exemple : 
+>je souffre à l’idée de ton départ
 
-Une souffrance peut être résultante, c’est-à-dire en lien avec mon état général comme par exemple : je ne me sens pas bien.
+Nous définissions une **souffrance résultante** comme *une souffrance en lien avec mon état général* comme par exemple : 
+>je ne me sens pas bien
 
 ### Intensité de souffrance
 Nous définissons une intensité de souffrance comme l’intensité de souffrance ressentie par l’individu, entre 0 et 10.
