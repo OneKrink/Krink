@@ -25,7 +25,7 @@ Pendant l'introduction, plusieurs options sont possibles parmi :
 Pendant l'identification, j'identifie la représentation en souffrance de la recevaire.
 > Quelle est la souffrance que tu souhaites apaiser ?
 
-> Je souffre à l'idée de partir en Austalie
+> Je souhaite apaiser l'idée de partir en Austalie
 
 ### 4. Quantification
 Pendant la quantification, j'identifie l'intensité de souffrance unitaire de la recevaire.
