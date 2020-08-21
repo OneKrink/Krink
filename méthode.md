@@ -33,19 +33,19 @@ Nous définissons apaiser une souffrance comme l’action de réduire l’intens
 ### Plaisir
 
 #### En cas de souffrance a appaiser
-- Ancrage
-- Présentation de la méthode
-Quelle est la représentation que tu souhaites apaiser ?
-Quelle est le niveau de souffrance de cette représentation ?
-Pourquoi est-ce une souffrance ?
-Qu’est-ce qui est le plus vivant entre les différents éléments que tu as cités ?
-Repasser par l’étape 5, jusqu’à avoir obtenu une souffrance racine
-Est-ce que tu as un souvenir racine en lien avec cette souffrance ?
-Lequel est le plus vivant ?
-Choisir le plus ancien, s’il est suffisamment vivant. Est-ce que tu souhaites l’apaiser ?
-Si oui, quelles sont les choses positives qui te sont arrivées grâce à cet événement que tu n’aurais pas eu sinon ?
-Si non, repasser à l’étape 9 s’il en reste, sinon repasser à l’étape 6 s’il en reste, sinon arrêter la séance
-Quand tu te reconnectes à ce souvenir, quelle est la charge que tu ressens maintenant ?
-Si pas suffisamment appaisé, repasser à l’étape 5
-Si suffisamment appaisé, terminer la séance en remontant chaque représentation où la charge avait été évaluée pour une réévaluation 
+1. Ancrage
+1. Présentation de la méthode
+1. Quelle est la représentation que tu souhaites apaiser ?
+1. Quelle est le niveau de souffrance de cette représentation ?
+1. Pourquoi est-ce une souffrance ?
+1. Qu’est-ce qui est le plus vivant entre les différents éléments que tu as cités ?
+1. Repasser par l’étape 5, jusqu’à avoir obtenu une souffrance racine
+1. Est-ce que tu as un souvenir racine en lien avec cette souffrance ?
+1. Lequel est le plus vivant ?
+1. Choisir le plus ancien, s’il est suffisamment vivant. Est-ce que tu souhaites l’apaiser ?
+  - Si oui, quelles sont les choses positives qui te sont arrivées grâce à cet événement que tu n’aurais pas eu sinon ?
+  - Si non, repasser à l’étape 9 s’il en reste, sinon repasser à l’étape 6 s’il en reste, sinon arrêter la séance
+1. Quand tu te reconnectes à ce souvenir, quelle est la charge que tu ressens maintenant ?
+  - Si pas suffisamment appaisé, repasser à l’étape 5
+  - Si suffisamment appaisé, terminer la séance en remontant chaque représentation où la charge avait été évaluée pour une réévaluation 
 
