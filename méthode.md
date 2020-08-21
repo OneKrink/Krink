@@ -62,9 +62,37 @@ La récursion s'arrête en étape `5. Compréhension` lorsque la personne n'est 
 
 Nous appelons **representation racine** cette representation.
 
-### 9. Souvenance
-Pendant la souvenance, j'identifie un souvenir racine en lien avec la représentation racine
-> 
+> Pourquoi est-ce que l'idée de manquer de nourriture est en souffrance ?
+
+> Je ne sais pas
+
+### 9. Identification racine
+Pendant l'identification racine, j'identifie un souvenir racine en lien avec la représentation racine
+> Est-ce que tu as un souvenir racine où l'idée de manquer de nourriture a été associée à de la souffrance ? Cela peut être chez toi, chez quelqu'un.e d'autre, dans un livre, film, etc.
+
+> Oui, quand j'avais 8 ans je me suis retrouvé pendant 3j sans nourriture parce que ma mère n'avait plus d'argent, etc.
+
+### 10. Quantification racine
+Pendant la quantification racine, j'identifie l'intensité de souffrance du souvenir racine.
+> Entre 0 et -10, à combien est-ce que ce souvenir est douloureux ?
+
+> Je souffre à -7/10
+
+### 11. Identification des conséquences douloureuses
+Pendant l'identification des conséquences douloureuses, j'identifie les conséquences douloureuses qu'on eu dans la vie de la recevaire le fait d'avoir vécu ce souvenir racine.
+> Quels sont les éléments dans ta vie qui ont découlé du fait que tu as vécu cela et qui sont douloureux aujourd'hui?
+
+> Depuis, je fais toujours des réserve de nourriture, je pense que c'est pour cela que j'ai grossi, je dépense peu, avoir toujours de l'argent de côté est important pour moi, etc.
+
+### 12. Identification des conséquences plaisantes
+Pendant l'identification des conséquences plaisantes, j'identifie les conséquences plaisantes qu'on eu dans la vie de la recevaire le fait d'avoir vécu ce souvenir racine.
+> Quels sont les éléments dans ta vie qui ont découlé du fait que tu as vécu cela et qui sont plaisants aujourd'hui?
+
+> Depuis, je connais la valeur de l'argent, la sécurité alimentaire est devenue une passion dans ma vie, c'est d'ailleurs mon métier, cela m'a amené à faire de l'humanitaire, etc.
+
+### 13. Reformulation des conséquences
+Pendant la reformulation des conséquences
+
 1. Est-ce que tu as un souvenir racine en lien avec cette souffrance ?
 1. Lequel est le plus vivant ?
 1. Choisir le plus ancien, s’il est suffisamment vivant. Est-ce que tu souhaites l’apaiser ?
