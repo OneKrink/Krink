@@ -72,6 +72,10 @@ Pendant l'identification racine, j'identifie un souvenir racine en lien avec la 
 
 > Oui, quand j'avais 8 ans je me suis retrouvé pendant 3j sans nourriture parce que ma mère n'avait plus d'argent, etc.
 
+```
+Si plusieurs souvenirs racines sont énoncés, commencer par le plus ancien. Généralement, un souvenir racine date de la tranche d'âge 4 - 15 ans
+```
+
 ### 10. Quantification racine
 Pendant la quantification racine, j'identifie l'intensité de souffrance du souvenir racine.
 > Entre 0 et -10, à combien est-ce que ce souvenir est douloureux ?
@@ -91,14 +95,39 @@ Pendant l'identification des conséquences plaisantes, j'identifie les conséque
 > Depuis, je connais la valeur de l'argent, la sécurité alimentaire est devenue une passion dans ma vie, c'est d'ailleurs mon métier, cela m'a amené à faire de l'humanitaire, etc.
 
 ### 13. Reformulation des conséquences
-Pendant la reformulation des conséquences
+Pendant la reformulation des conséquences, je reformule le souvenir, puis les conséquences douloureuses puis les conséquences plaisantes énoncées par la recevaire
+> A 8 ans, tu as vécu cette situation où tu n'as pas mangé pendant 3j parce que ta mère n'avait plus d'argent pour en acheter. Est-ce que c'est ca ?
 
-1. Est-ce que tu as un souvenir racine en lien avec cette souffrance ?
-1. Lequel est le plus vivant ?
-1. Choisir le plus ancien, s’il est suffisamment vivant. Est-ce que tu souhaites l’apaiser ?
-  - Si oui, quelles sont les choses positives qui te sont arrivées grâce à cet événement que tu n’aurais pas eu sinon ?
-  - Si non, repasser à l’étape 9 s’il en reste, sinon repasser à l’étape 6 s’il en reste, sinon arrêter la séance
-1. Quand tu te reconnectes à ce souvenir, quelle est la charge que tu ressens maintenant ?
-  - Si pas suffisamment appaisé, repasser à l’étape 5
-  - Si suffisamment appaisé, terminer la séance en remontant chaque représentation où la charge avait été évaluée pour une réévaluation 
+> Oui
 
+> Cela a fait que depuis tu fais des reserves de nourriture, que tu as grossi, que tu depenses peu, qu'avoir de l'argent de cote est important pour toi. Est-ce que c'est ca ?
+
+> Oui
+
+> Cela a fait aussi que depuis tu connais la valeur de l'argent, la securite alimentaire est devenue une passion, c'est devenu ton metier, cela t'a amene a faire de l'humanitaire. Est-ce que c'est ca ?
+
+> Oui
+
+### 14. Nouvelle quantification racine
+Pendant la nouvelle quantification racine, j'identifie l'intensité de charge du souvenir racine.
+> Maintenant, quelle est la charge de ce souvenir entre -10 et +10 ? Si c'est négatif c'est une souffrance, si c'est positif c'est un plaisir
+
+> C'est un plaisir à +4/10
+
+```
+Si le souvenir racine est apaisé (charge supérieure ou égale à -3/10) alors passer à l'étape suivante
+Autrement, considérer le souvenir racine comme une représentation en souffrance et repasser par l'étape "5. Compréhension" 
+```
+
+### 15. Remontée
+Pendant la remontée, je quantifie à nouveau les représentations en souffrance de l'arbre en partant du plus profond et en remontant vers la représentation en souffrance initiale
+> L'idée de partir en Australie a quelle charge maintenant ?
+
+> +8/10 !
+
+> Cool, tu étais à -7/10 au début de la session
+
+### 16. Clôture
+Pendant la clôture, plusieurs options sont possibles parmi :
+- Prendre une ou plusieurs respirations ensemble
+- Procéder à un check émotionnel
