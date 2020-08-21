@@ -7,33 +7,61 @@ Une session de krink dure 1h
 Une session se déroule à deux : une personne recevaire et une personne donnaire
 
 ## Étapes
-Voici les étapes à suivre pour mener une session de Krink
+Voici les étapes à suivre pour mener une session de Krink. Ce déroulé se place du point de vue de la donnaire.
 
-### Ouverture
+### 1. Ouverture
 Pendant l'ouverture, plusieurs options sont possibles parmi :
 - Prendre une ou plusieurs respirations ensemble
 - Procéder à un check émotionnel
 
-### Introduction
+### 2. Introduction
 Pendant l'introduction, plusieurs options sont possibles parmi :
 - Demander l'expérience de la personne en lien avec le Krink
 - Si pertinent, expliquer brièvement la théorie du Krink
 - Si pertinent, expliquer brièvement la méthode du Krink
 - Répondre aux questions éventuelles
 
-### Identification
-Pendant l'identification, il s'agit d'identifier la représentation en souffrance de la recevaire.
+### 3. Identification
+Pendant l'identification, j'identifie la représentation en souffrance de la recevaire.
 > Quelle est la souffrance que tu souhaites apaiser ?
 
 > Je souffre à l'idée de partir en Austalie
 
-### Quantification
-Pendant la quantification
-  Quelle est la représentation que tu souhaites apaiser ?
-1. Quelle est le niveau de souffrance de cette représentation ?
-1. Pourquoi est-ce une souffrance ?
-1. Qu’est-ce qui est le plus vivant entre les différents éléments que tu as cités ?
-1. Repasser par l’étape 5, jusqu’à avoir obtenu une souffrance racine
+### 4. Quantification
+Pendant la quantification, j'identifie l'intensité de souffrance unitaire de la recevaire.
+> Entre 0 et -10, à combien est-ce que cette idée est douloureuse  ?
+
+> Je souffre à -7/10
+
+### 5. Compréhension
+Pendant la compréhension, j'identifie les raisons de la souffrance
+> Pouquoi est-ce que l'idée de partir en Australie est une souffrance ? Pourquoi n'est-ce pas super ?
+
+> Parce que je vais devoir quitter ma famille, je n'ai pas assez d'argent et je ne parle pas bien anglais
+
+### 6. Reformulation
+Pendant la reformulation, j'identifie les représentations en souffrance derrière chaque raison formulée
+> Est-ce que tu dirais que les représentations suivantes sont en souffrance :
+A. Quitter ma famille
+B. Manquer d'argent
+C. Ne pas bien parler anglais dans un pays anglophone
+?
+
+> Oui c'est cela
+
+### 7. Priorisation
+Pendant la priorisation, j'identifie quelle représentation est la plus en souffrance
+> Qu'est-ce qui est le plus douloureux entre A, B et C ?
+
+> L'idée la plus douloureuse est C
+
+### 8. Récursion
+Pendant la récursion, je réitère les étapes 4., 5., 6. et 7. jusqu'à ce que la récursion s'arrête.
+
+La récursion s'arrête en étape `5. Compréhension` lorsque la personne n'est plus capable de donner une raison à la souffrance unitaire
+
+### 9. Racine
+Pendant la racine, j'identifie 
 1. Est-ce que tu as un souvenir racine en lien avec cette souffrance ?
 1. Lequel est le plus vivant ?
 1. Choisir le plus ancien, s’il est suffisamment vivant. Est-ce que tu souhaites l’apaiser ?
