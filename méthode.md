@@ -58,10 +58,13 @@ Pendant la priorisation, j'identifie quelle représentation est la plus en souff
 ### 8. Récursion
 Pendant la récursion, je réitère les étapes 4., 5., 6. et 7. jusqu'à ce que la récursion s'arrête.
 
-La récursion s'arrête en étape `5. Compréhension` lorsque la personne n'est plus capable de donner une raison à la souffrance unitaire
+La récursion s'arrête en étape `5. Compréhension` lorsque la personne n'est plus capable de donner une raison à la souffrance unitaire.
 
-### 9. Racine
-Pendant la racine, j'identifie 
+Nous appelons **representation racine** cette representation.
+
+### 9. Souvenance
+Pendant la souvenance, j'identifie un souvenir racine en lien avec la représentation racine
+> 
 1. Est-ce que tu as un souvenir racine en lien avec cette souffrance ?
 1. Lequel est le plus vivant ?
 1. Choisir le plus ancien, s’il est suffisamment vivant. Est-ce que tu souhaites l’apaiser ?
